@@ -1,0 +1,1 @@
+/Users/xixiao/.config/fisherman/menu/menu.fish

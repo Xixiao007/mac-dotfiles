@@ -1,0 +1,1 @@
+/Users/xixiao/.config/fisherman/pure/__format_time.fish
